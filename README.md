@@ -18,7 +18,7 @@ Simple script to track attendance for my edX classes! It's a bit of a hack, but 
 
 ## Notes
 
-Originally written by Dixit Jain, I made small changes for speed and ease of use.
+Originally written by a coworker, Dixit Jain, I made small changes for speed and ease of use!
 
 ## Questions
 
