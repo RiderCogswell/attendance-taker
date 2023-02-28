@@ -2,7 +2,7 @@
 let dropdownIcons = document.querySelectorAll('.dropdown');
 
 // Function to perform the action
-function performAction(i) {
+const performAction = (i) => {
     // Click the i-th item
     dropdownIcons[i].click();
     // Wait for 0.001 second
