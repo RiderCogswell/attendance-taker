@@ -12,7 +12,7 @@ Simple script to track attendance for my edX classes! It's a bit of a hack, but 
 
 3. Go to Elements and select the div with class of 'menu'.
 
-4. Open the console and paste the script in ./index.js.
+4. Open the console and paste the in the code in ./index.js.
 
 5. Run the script, TADAAAAAAH!
 
